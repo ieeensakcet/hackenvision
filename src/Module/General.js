@@ -48,11 +48,11 @@ import aneri from "./Assets/teami/Aneri_Sonani.jpg";
 
 const TOP_SECTION = {
   TITLE: "HackEnvision",
-  Typed_effect: ["04 January - 11 January", "36 hours of creation", "Win awesome prizes", "Events And Sessions"],
+  Typed_effect: ["04th January - 11th January", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
-    "Join us on 16th and 17th of July 2022 for 36 hours of creation, innovation, & fun with over 1000+ students.",
+    "Join us on 10th and 11th of July 2022 for hours of creation, innovation, & fun with over 1000+ students.",
   IMG_SRC: team,
-  DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
+  // DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
   JUDGES_FORM_LINK:
     "#Jugdes Form Link",
   HACKERS_REGISTRATION_FORM_LINK:
@@ -60,18 +60,18 @@ const TOP_SECTION = {
 };
 
 const SOCIALS = {
-  instagram: "https://instagram.com/duhacks2022?igshid=YmMyMTA2M2Y=",
-  discord: "https://discord.gg/cvHPEK7U3v",
-  linkedin: "https://www.linkedin.com/company/duhacks/",
-  twitter: "https://twitter.com/DuHacks?t=CPjNJmQX1JxhIHb_YI0Tuw&s=09",
-  email: "mailto:contact@duhacks.tech",
-  mail: "contact@duhacks.tech"
+  instagram: "https://www.instagram.com/ieeensakcet/",
+  // discord: "https://discord.gg/cvHPEK7U3v",
+  linkedin: "https://www.linkedin.com/company/ieeensakcet/",
+  twitter: "https://twitter.com/ieeensakcet",
+  email: "contact@ieeensakcet.com",
+  mail: "contact@ieeensakcet.com"
 };
 
 const MIDDLE_SECTION = {
   TITLE: "What is HackEnvision?",
   LONG_DESCRIPTION:
-    "It is a hybrid mode hackathon in which all participants can sharpen their skills and connect with people to grow together. The Hackathon is designed to spark innovation, attract and educate new talent and create new channels for collaboration between performance and capacity professionals. We want to spread the idea that programming is a useful skill that can be enjoyed by anyone. We are planning to host approximately 150+ students offline in the college with proper arrangement and 850+ students online.",
+    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 120+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, starting on Tuesday, January 10th. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -96,8 +96,8 @@ const FOOTER = {
 };
 
 const calenderStartingDate = {
-  month: 7,
-  year: 2022
+  month: 1,
+  year: 2023
 }
 
 
