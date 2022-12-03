@@ -14,7 +14,7 @@ function TimeLine() {
         <i class="icon fas fa-home"></i>
         <div class="details">
           <span class="title">Start Registrations</span>
-          <span>1st June 2022</span>
+          <span>10th December 2022</span>
         </div>
         {/*<p className="timeline_text" style={{fontSize: "14px"}}>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
         */}
@@ -25,13 +25,13 @@ function TimeLine() {
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">End Registrations</span>
-          <span>14th Jul 2022</span>
+          <span>31st December 2022</span>
         </div>
         {/*<p  className="timeline_text" style={{fontSize: "14px"}}>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
        */}
       </section>
     </div>
-    <div class="row row-1">
+    {/* <div class="row row-1">
       <section>
         <i class="icon fas fa-rocket"></i>
         <div class="details">
@@ -42,25 +42,15 @@ function TimeLine() {
         
       </section>
     </div>
-    <div class="row row-2">
-      <section>
-        <i class="icon fas fa-globe"></i>
-        <div class="details">
-          <span class="title">Hackathon Starts</span>
-          <span>16th July 2022</span>
-        </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Hackathon coding period will start from 10:30 AM onwards.</p>
-       
-      </section>
-    </div>
+     */}
     <div class="row row-1">
       <section>
         <i class="icon fas fa-paper-plane"></i>
         <div class="details">
-          <span class="title">Session from GeeksforGeeks</span>
-          <span>16th July 2022</span>
+          <span class="title">Workshop-1</span>
+          <span>4th January 2023</span>
         </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Session on Complete Interview Preperation by GeeksForGeeks on 11.30 AM Onwards.</p>
+        <p className="timeline_text" style={{fontSize: "14px"}}>Session on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
         
       </section>
     </div>
@@ -68,10 +58,10 @@ function TimeLine() {
       <section>
         <i class="icon fas fa-paper-plane"></i>
         <div class="details">
-          <span class="title">Session from Postman</span>
-          <span>16th July 2022</span>
+          <span class="title">Workshop-2</span>
+          <span>5th January 2023</span>
         </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Session on APIs 101 using Postman on 4:00 PM Onwards.</p>
+        <p className="timeline_text" style={{fontSize: "14px"}}>Session on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
         
       </section>
     </div>
@@ -79,22 +69,81 @@ function TimeLine() {
       <section>
         <i class="icon fas fa-paper-plane"></i>
         <div class="details">
-          <span class="title">Session from Alan AI</span>
-          <span>16th July 2022</span>
+          <span class="title">Workshop-3</span>
+          <span>6th January 2023</span>
         </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Session on Building Voice Ai Powered App in React JS with Alan Ai on 06:30 PM Onwards.</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Session on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
         
       </section>
     </div>
+    <div class="row row-2">
+      <section>
+        <i class="icon fas fa-paper-plane"></i>
+        <div class="details">
+          <span class="title">Workshop-4</span>
+          <span>7th January 2023</span>
+        </div>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>SSession on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
+      </section>
+          </div>
+          <div class="row row-1">
+            <section>
+              <i class="icon fas fa-globe"></i>
+              <div class="details">
+                <span class="title">Hackathon Starts</span>
+                <span>10th January 2023</span>
+              </div>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon coding period will start from 10:00 AM onwards.</p>
+            </section>
+          </div>
+          <div class="row row-2">
+            <section>
+              <i class="icon fas fa-star"></i>
+              <div class="details">
+                <span class="title">Hacking Phase 1 (Initial MVP)</span>
+                <span>10th January 2023</span>
+              </div>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-1 will start from 11:30 AM onwards.</p>
+            </section>
+          </div>
+          <div class="row row-1">
+            <section>
+              <i class="icon fas fa-star"></i>
+              <div class="details">
+                <span class="title">Evaluation of Phase-1</span>
+                <span>10th January 2023</span>
+              </div>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation Phase starts from 3:00 PM onwards. Teams will have to pitch their idea to judges alongside the initial MVP. Only top # teams will move to the next phase</p>
+            </section>
+          </div>
+          <div class="row row-2">
+            <section>
+              <i class="icon fas fa-star"></i>
+              <div class="details">
+                <span class="title">Hacking Phase 2</span>
+                <span>10th January 2023</span>
+              </div>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-2 period will start from 3:30 PM onwards.</p>
+            </section>
+          </div>
+          <div class="row row-1">
+            <section>
+              <i class="icon fas fa-star"></i>
+              <div class="details">
+                <span class="title">Project Showcase</span>
+                <span>11th January 2023</span>
+              </div>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Project Showcase will start from 10:30 AM onwards.</p>
+            </section>
+          </div>
     <div class="row row-2">
       <section>
         <i class="icon fas fa-globe"></i>
         <div class="details">
           <span class="title">Hackathon Ends</span>
-          <span>17th July 2022</span>
+          <span>11th January 2022</span>
         </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Hackathon coding period will end on 10:30 PM.</p>
-        
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Prize Distribution and Closing ceremony will end on 11:30 AM.</p>  
       </section>
     </div>
   </div>

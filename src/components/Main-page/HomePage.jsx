@@ -193,17 +193,17 @@ export default function HomePage(props) {
 
           <div class="box red">
             <h2>Overall First</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/1st-place-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 7000 <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
+            <h4><b>Prize</b>: Rs. **** <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
           </div>
 
           <div class="box box-down cyan">
             <h2>Overall Second</h2><img className="imgright" src="https://img.icons8.com/emoji/96/000000/2nd-place-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 3000 <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes"zz>Load More</a></h4>
+            <h4><b>Prize</b>: Rs. **** <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes"zz>Load More</a></h4>
           </div>
 
           <div class="box box-down blue">
             <h2>Overall Third</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/3rd-place-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 2000 <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
+            <h4><b>Prize</b>: Rs. **** <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
           </div>
         </div>
         {/*      <div class="row2-container">
@@ -215,13 +215,13 @@ export default function HomePage(props) {
       </div>*/}
         <div class="row1-container margfromsponsor">
           <div class="box box-down color2">
-            <h2>Best Women Team</h2><img class="imgright" src="https://img.icons8.com/cute-clipart/64/000000/granny-lesbian.png" alt="" />
-            <h4><b>Prize</b>: Rs. 1500 <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
+            <h2>Best Juniors Team</h2><img class="imgright" src="https://img.icons8.com/cute-clipart/64/000000/granny-lesbian.png" alt="" />
+            <h4><b>Prize</b>: Rs. **** <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
           </div>
 
           <div class="box color1">
-            <h2>Best DDU Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 1500 <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
+            <h2>Best Nsakcet Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
+            <h4><b>Prize</b>: Rs. **** <br />Swags & Promo Codes<br /><br /><a href="https://duhacks.devfolio.co/#prizes">Load More</a></h4>
           </div>
 
           <div class="box box-down orange">
@@ -236,10 +236,9 @@ export default function HomePage(props) {
         <center>
 
           <div class="containertrack">
-            <div class="cardtrack">
+            {/* <div class="cardtrack">
               <div class="boxtrack">
                 <div class="contenttrack">
-                  {/*<h1>Polygon</h1>*/}
                   <img className="imgtrack" src={polygon} />
                   <br /><br />
                   <b><lu>
@@ -250,9 +249,9 @@ export default function HomePage(props) {
                   <a href="https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c">Read More</a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div class="cardtrack">
+            {/* <div class="cardtrack">
               <div class="boxtrack">
                 <div class="contenttrack">  
                   <img className="imgtrack" src={koii} />
@@ -274,12 +273,11 @@ export default function HomePage(props) {
                     </lu>
 
                   </b>
-                  {/*<a href="https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff">Read More</a>*/}
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div class="cardtrack">
+            {/* <div class="cardtrack">
               <div class="boxtrack">
                 <div class="contenttrack">  
                   <img className="imgtrack" src={alan} />
@@ -301,15 +299,13 @@ export default function HomePage(props) {
                     </lu>
 
                   </b>
-                  {/*<a href="https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff">Read More</a>*/}
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div class="cardtrack">
+            {/* <div class="cardtrack">
               <div class="boxtrack">
                 <div class="contenttrack">
-                  {/*<h1>Filecoin</h1>*/}
                   <img className="imgtrack" src={filecoin} />
                   <br /><br />
                   <b><lu>
@@ -318,7 +314,7 @@ export default function HomePage(props) {
                   <a href="https://devfolio.notion.site/Filecoin-Devfolio-Hackathon-Season-Prize-998fc3fe477e474086ae1d5ed1685203">Read More</a>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             {/*<div class="cardtrack">
               <div class="boxtrack">
@@ -350,7 +346,7 @@ export default function HomePage(props) {
 
         {/* ********Sponsors here ***** */}
 
-        <Row className="sponsorSection" id="sponsors">
+        {/* <Row className="sponsorSection" id="sponsors">
           <SponsorsHead />
           <h1 className="">Title Sponsors</h1>
           <br />
@@ -368,7 +364,6 @@ export default function HomePage(props) {
           <br />
           {bronzeponsorLogos.map(SponsorGroup)}
           <br /><br />
-          {/* <SponsorUS /> */}<br /><br />
           <h1 className="">Design & Media Partners</h1>
           <br />
           {designlogo.map(SponsorGroup)}
@@ -376,7 +371,8 @@ export default function HomePage(props) {
           <h1 className="">Food Sponsors</h1>
           <br />
           {FoodLogos.map(SponsorGroup)}
-        </Row>
+        </Row> */}
+        
         {/* ********Sponsors ending here ***** */}
 
 
@@ -386,7 +382,7 @@ export default function HomePage(props) {
 
         {JudgesInfo.map(TeamMembers)} */}
 
-        <h1 id="teams">Our Team</h1>
+        {/* <h1 id="teams">Our Team</h1>   */}
         {/* {FOOTER.JOIN_TEAM.required && (
           <JoinTeam
             placeholder="Join our team"
@@ -394,7 +390,7 @@ export default function HomePage(props) {
             content="Interested in joining our team"
           />
         )} */}
-        {TeamInfo.map(TeamMembers)}
+        {/* {TeamInfo.map(TeamMembers)} */}
         {/* ********Team ending here ***** */}
 
         {/* ********Team ending here ***** */}

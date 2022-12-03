@@ -1,8 +1,8 @@
 {
-  "name": "duhacks",
+  "name": "hackenvision",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://duhacks.tech/",
+  "homepage": "",
   "dependencies": {
     "@devexpress/dx-core": "^2.7.6",
     "@devexpress/dx-react-core": "^2.7.6",
@@ -80,15 +80,15 @@
     "gh-pages": "^3.2.3",
     "husky": "^7.0.0"
   },
-  "description": "### Thanks [ella](https://github.com/eilla1) for design snippets",
+  "description": "### Thanks [vasu](https://github.com/vasu-1/duhacks) for design snippets",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vasu-1/duhacks.git"
+    "url": "https://github.com/ieeensakcet/hackenvision.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vasu-1/duhacks/issues"
+    "url": "https://github.com/ieeensakcet/hackenvision/issues "
   }
 }
