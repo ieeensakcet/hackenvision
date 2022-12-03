@@ -390,7 +390,7 @@ const frequentlyAskedQuestions = [
       },
       {
         label: "Who can attend?",
-        content: "DUHacks is open to all undergraduate, high school students, and middle school students from all schools. Unfortunately, only DDU students can attend this event offline. For the rest of the other students, the event would be online."
+        content: "HackEnvision is open to all undergraduate, high school students, and middle school students from all schools. Unfortunately, only DDU students can attend this event offline. For the rest of the other students, the event would be online."
       },
       {
         label: "I am a first time hacker, what should I do?",
@@ -408,7 +408,7 @@ const frequentlyAskedQuestions = [
       },
       {
         label: "I have more questions?",
-        content: "Reach us directly at (contact@duhacks.tech) we would happy to help you."
+        content: "Reach us directly at (contact@ieeensakcet.com) we would happy to help you."
       }
       ,
       {
