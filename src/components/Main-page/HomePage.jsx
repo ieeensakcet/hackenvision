@@ -11,12 +11,9 @@ import { Accordion } from "../FAQ/faq.jsx";
 // import {theme} from "../themes_test/theme.jsx";
 // import {Sponsor, SponsorsHead, SponsorUS} from "../Sponsors/sponsors.jsx";
 import { Sponsor, SponsorsHead } from "../Sponsors/sponsors.jsx";
-import Birds from "../Birds/birds.jsx";
 import Footer from "../Footer/footer.jsx";
 import { Member } from "../team/team.jsx";
-import koii from "../../Module/Assets/sponsorsLogos/koii.png";
 import pattern from "./pattern4.png";
-import Media from "../media/media.jsx";
 import ThemeType from "../Themes/theme.jsx";
 import TimeLine from "../Timeline/Timeline.jsx";
 import filecoin from "../../Module/Assets/sponsorsLogos/filecoin.png";
@@ -151,13 +148,6 @@ export default function HomePage(props) {
               <br />
             </Col>
           </Row>
-
-
-          {/*          <Row className="mediaInfo">
-            <Col className="" sm={12} lg={12} md={12}>
-              <Media />
-            </Col>
-          </Row>*/}
         </Container>
       </div>
       <Container fluid>
@@ -330,10 +320,6 @@ export default function HomePage(props) {
             </div>*/}
           </div>
         </center>
-        {/*Theme end*/}
-
-        {/* <Birds top="100vh" left="0vh" type="" /> */}
-
         {/* *******Prizes here ***** */}
         {/*        <Row className="prizesection" id="prizes">
           <PrizeHeading type="Prizes" /><br/>
