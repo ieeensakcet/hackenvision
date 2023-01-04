@@ -71,7 +71,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: "What is HackEnvision?",
   LONG_DESCRIPTION:
-    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 120+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, starting on Tuesday, January 10th. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
+    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 150+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, starting on Tuesday, January 21st. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
