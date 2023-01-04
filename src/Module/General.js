@@ -48,9 +48,9 @@ import aneri from "./Assets/teami/Aneri_Sonani.jpg";
 
 const TOP_SECTION = {
   TITLE: "HackEnvision",
-  Typed_effect: ["04th January - 11th January", "Win awesome prizes", "Events And Sessions"],
+  Typed_effect: ["21st January", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
-    "Join us from 04th to 11th of January 2023 for hours of creation, innovation, & fun with over 100+ students.",
+    "Join us on 21st of January 2023 for 8 hours of creation, innovation, & fun with over 150+ students.",
   IMG_SRC: team,
   // DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
   JUDGES_FORM_LINK:
