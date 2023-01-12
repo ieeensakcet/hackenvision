@@ -38,10 +38,11 @@ import manav from "./Assets/teami/manav.jpg";
 import parshwa from "./Assets/teami/Parshwa_Mehta.jpg";
 import ayush from "./Assets/teami/Ayush_Rudani.jpg";
 import aneri from "./Assets/teami/Aneri_Sonani.jpg";
-
-
-
-
+import masqati from "./Assets/sponsorsLogos/masqati.png"
+import solana from "./Assets/sponsorsLogos/Solana-Colored.png"
+import xyz from "./Assets/sponsorsLogos/xyz.png"
+import ecell from "./Assets/sponsorsLogos/ecell.png"
+import pistaHouse from "./Assets/sponsorsLogos/pistaHouse.jpg"
 
 
 
@@ -337,7 +338,7 @@ const sponsorLogos = [
 ];
 
 const titlesponsorLogos = [
-  [{ src: devfolio, link: "https://devfolio.co/" }, { src: polygon, link: "https://polygon.technology/" }], //Array 1
+  [{ src: devfolio, link: "https://devfolio.co/" }, { src: polygon, link: "https://polygon.technology/" }, { src: masqati, link: "https://www.masqati.com/" }], //Array 1
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
@@ -346,15 +347,15 @@ const titlesponsorLogos = [
 
 const goldsponsorLogos = [
   // [  ], //Array 1
-  [{ src: filecoin, link: "https://filecoin.io/" }, { src: gfg, link: "https://www.geeksforgeeks.org/" }, { src: digitalocean, link: "https://www.digitalocean.com/" }], //Array 2
+  [{ src: filecoin, link: "https://filecoin.io/" }, { src: replit, link: "https://replit.com/" }, { src: solana, link: "https://www.solana.com/" }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
 
 ];
 
 const silversponsorLogos = [
-  [{ src: echo3d, link: "https://www.echo3d.co/" }, { src: wolfram, link: "https://www.wolfram.com/" }, { src: interviewbuddy, link: "https://interviewbuddy.in/" }], //Array 1
-  [{ src: alan, link: "https://alan.app/" }, { src: shivam, link: "#" }],
+  [{ src: xyz, link: "https://www.gen.xyz/" }], //Array 1
+  // [{ src: alan, link: "https://alan.app/" }, { src: shivam, link: "#" }],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
@@ -362,9 +363,9 @@ const silversponsorLogos = [
 ];
 
 const bronzeponsorLogos = [
-  [{ src: replit, link: "https://replit.com/" }, { src: certopus, link: "https://certopus.com/" }, { src: taskade, link: "https://www.taskade.com/" },], //Array 1
-  [{ src: koii, link: "https://www.koii.network/" }, { src: postman, link: "https://postman.com/" }, {src: prayosys, link: "https://prayosys.com/"}],
-  [{src: shivalika, link: "#"}, {src: cuvette, link: "https://www.cuvette.tech/"}],
+  [{ src: ecell, link: "https://ecellmjcet.com/" }], //Array 1
+  // [{ src: koii, link: "https://www.koii.network/" }, { src: postman, link: "https://postman.com/" }, {src: prayosys, link: "https://prayosys.com/"}],
+  // [{src: shivalika, link: "#"}, {src: cuvette, link: "https://www.cuvette.tech/"}],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
@@ -372,7 +373,7 @@ const bronzeponsorLogos = [
 ];
 
 const FoodLogos = [
-  [{src: maruti, link: "#"},{src: jay_bhavani, link: "#"},{src: jay_maharaj, link: "#"}],
+  [{ src: pistaHouse, link: "https://www.pistahouse.in/"}],
 ];
 
 const designlogo = [
