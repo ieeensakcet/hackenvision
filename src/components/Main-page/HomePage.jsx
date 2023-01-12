@@ -332,9 +332,9 @@ export default function HomePage(props) {
 
         {/* ********Sponsors here ***** */}
 
-        {/* <Row className="sponsorSection" id="sponsors">
+        <Row className="sponsorSection" id="sponsors">
           <SponsorsHead />
-          <h1 className="">Title Sponsors</h1>
+          <h1 className="">Platinum Sponsors</h1>
           <br />
           {titlesponsorLogos.map(SponsorGroup)}
           <br /><br />
@@ -346,18 +346,18 @@ export default function HomePage(props) {
           <br />
           {silversponsorLogos.map(SponsorGroup)}
           <br /><br />
-          <h1 className="">Bronze Sponsors</h1>
+          <h1 className="">Outreach Partners</h1>
           <br />
           {bronzeponsorLogos.map(SponsorGroup)}
           <br /><br />
-          <h1 className="">Design & Media Partners</h1>
+          {/* <h1 className="">Design & Media Partners</h1>
           <br />
           {designlogo.map(SponsorGroup)}
-          <br /><br />
+          <br /><br /> */}
           <h1 className="">Food Sponsors</h1>
           <br />
           {FoodLogos.map(SponsorGroup)}
-        </Row> */}
+        </Row>
         
         {/* ********Sponsors ending here ***** */}
 
@@ -391,7 +391,7 @@ export default function HomePage(props) {
       <br />
       <center><div
         class="apply-button"
-        data-hackathon-slug="duhacks"
+        data-hackathon-slug="hackenvision"
         data-button-theme="light"
       // style="height: 44px; width: 312px"
       ></div></center>

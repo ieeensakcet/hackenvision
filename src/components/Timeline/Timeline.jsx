@@ -43,49 +43,6 @@ function TimeLine() {
       </section>
     </div>
      */}
-    <div class="row row-1">
-      <section>
-        <i class="icon fas fa-paper-plane"></i>
-        <div class="details">
-          <span class="title">Workshop-1</span>
-          <span>4th January 2023</span>
-        </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Session on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
-        
-      </section>
-    </div>
-    <div class="row row-2">
-      <section>
-        <i class="icon fas fa-paper-plane"></i>
-        <div class="details">
-          <span class="title">Workshop-2</span>
-          <span>5th January 2023</span>
-        </div>
-        <p className="timeline_text" style={{fontSize: "14px"}}>Session on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
-        
-      </section>
-    </div>
-    <div class="row row-1">
-      <section>
-        <i class="icon fas fa-paper-plane"></i>
-        <div class="details">
-          <span class="title">Workshop-3</span>
-          <span>6th January 2023</span>
-        </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Session on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
-        
-      </section>
-    </div>
-    <div class="row row-2">
-      <section>
-        <i class="icon fas fa-paper-plane"></i>
-        <div class="details">
-          <span class="title">Workshop-4</span>
-          <span>7th January 2023</span>
-        </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>SSession on Complete .... on 11.30 AM Onwards for Nsakcet students.</p>
-      </section>
-          </div>
           <div class="row row-1">
             <section>
               <i class="icon fas fa-globe"></i>
