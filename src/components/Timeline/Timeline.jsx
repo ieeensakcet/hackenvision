@@ -50,7 +50,7 @@ function TimeLine() {
                 <span class="title">Hackathon Starts</span>
                 <span>21st January 2023</span>
               </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon coding period will start from 10:00 AM onwards.</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon ideation phase will start from 10:00 AM onwards.</p>
             </section>
           </div>
           <div class="row row-2">
@@ -60,7 +60,7 @@ function TimeLine() {
                 <span class="title">Hacking Phase 1 (Initial MVP)</span>
                 <span>21st January 2023</span>
               </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-1 will start from 11:30 AM onwards.</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-1 will start from 11:00 AM onwards.</p>
             </section>
           </div>
           <div class="row row-1">
@@ -70,7 +70,7 @@ function TimeLine() {
                 <span class="title">Evaluation of Phase-1</span>
                 <span>21st January 2023</span>
               </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation Phase starts from 3:00 PM onwards. Teams will have to pitch their idea to judges alongside the initial MVP. Only top # teams will move to the next phase</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation of Phase-1 starts from 2:00 PM onwards. Teams will have to pitch their idea to judges alongside the initial MVP. Only top 20 teams will move to the next phase</p>
             </section>
           </div>
           <div class="row row-2">
@@ -80,7 +80,7 @@ function TimeLine() {
                 <span class="title">Hacking Phase 2</span>
                 <span>21st January 2023</span>
               </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-2 period will start from 3:30 PM onwards.</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-2 period will start from 2:30 PM onwards.</p>
             </section>
           </div>
           <div class="row row-1">
@@ -90,7 +90,7 @@ function TimeLine() {
                 <span class="title">Project Showcase</span>
                 <span>21st January 2023</span>
               </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Project Showcase will start from 4:00 PM onwards.</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Project Showcase will start from 5:30 PM onwards.</p>
             </section>
           </div>
     <div class="row row-2">
@@ -98,9 +98,9 @@ function TimeLine() {
         <i class="icon fas fa-globe"></i>
         <div class="details">
           <span class="title">Hackathon Ends</span>
-          <span>21st January 2022</span>
+          <span>21st January 2023</span>
         </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Prize Distribution and Closing ceremony will end on 7:00 PM.</p>  
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Prize Distribution and Closing ceremony will end by 7:00 PM.</p>  
       </section>
     </div>
   </div>

@@ -49,7 +49,7 @@ import pistaHouse from "./Assets/sponsorsLogos/pistaHouse.jpg"
 
 const TOP_SECTION = {
   TITLE: "HackEnvision",
-  Typed_effect: ["21st January", "Win awesome prizes", "Events And Sessions"],
+  Typed_effect: ["21st January 2023", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
     "Join us on 21st of January 2023 for 8 hours of creation, innovation, & fun with over 150+ students.",
   IMG_SRC: team,
@@ -65,14 +65,14 @@ const SOCIALS = {
   // discord: "https://discord.gg/cvHPEK7U3v",
   linkedin: "https://www.linkedin.com/company/ieeensakcet/",
   twitter: "https://twitter.com/ieeensakcet",
-  email: "contact@ieeensakcet.com",
-  mail: "contact@ieeensakcet.com"
+  email: "hackenvision@ieeensakcet.com",
+  mail: "hackenvision@ieeensakcet.com"
 };
 
 const MIDDLE_SECTION = {
   TITLE: "What is HackEnvision?",
   LONG_DESCRIPTION:
-    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 150+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, starting on Tuesday, January 21st. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
+    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 150+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 21st of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -387,11 +387,11 @@ const frequentlyAskedQuestions = [
       {
         label: "What is a hackathon?",
         content:
-          'A hackathon is a 36 hour event where "hackers" will collaborate on creating a functioning software and hardware by the end of the event.'
+          'A hackathon is an 8 hour event where "hackers" will collaborate on creating a functioning software and hardware by the end of the event.'
       },
       {
         label: "Who can attend?",
-        content: "HackEnvision is open to all undergraduate, high school students, and middle school students from all schools. Unfortunately, only DDU students can attend this event offline. For the rest of the other students, the event would be online."
+        content: "HackEnvision is open to all undergraduate, high school students, and middle school students from all schools. Unfortunately, only NSAKCET and surrounding college students can attend this event offline. For the rest of the other students, the event would be online."
       },
       {
         label: "I am a first time hacker, what should I do?",
@@ -409,12 +409,12 @@ const frequentlyAskedQuestions = [
       },
       {
         label: "I have more questions?",
-        content: "Reach us directly at (contact@ieeensakcet.com) we would happy to help you."
+        content: "Reach us directly at (hackenvision@ieeensakcet.com) we would be happy to help you."
       }
       ,
       {
         label: "Can I participate as a individual?",
-        content: "No, Because our goal is collaborative learning, we encourage everyone to participate as a team of at least two people."
+        content: "Yes your are allowed to participate as an individual but since our goal is collaborative learning, we encourage everyone to participate as a team of at least two people."
       }
       ,
       {
