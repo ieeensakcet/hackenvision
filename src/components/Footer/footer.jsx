@@ -57,7 +57,7 @@ export default function Footer() {
           <span class="logo_name">&nbsp;HackEnvision</span>
         </div>
         <div class="media-icons">
-          <a target="_blank" href={SOCIALS.discord}><i class="iconlink fab fa-discord"></i></a>
+          {/* <a target="_blank" href={SOCIALS.discord}><i class="iconlink fab fa-discord"></i></a> */}
           <a target="_blank" href={SOCIALS.twitter}><i class="iconlink fab fa-twitter"></i></a>
           <a target="_blank" href={SOCIALS.instagram}><i class="iconlink fab fa-instagram"></i></a>
           <a target="_blank" href={SOCIALS.linkedin}><i class="iconlink fab fa-linkedin-in"></i></a>
