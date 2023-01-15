@@ -349,7 +349,7 @@ const titlesponsorLogos = [
 
 const goldsponsorLogos = [
   // [  ], //Array 1
-  [{ src: filecoin, link: "https://filecoin.io/" }, { src: InterviewBuddy, link: "https://interviewbuddy.in/" }], //Array 2
+  [{ src: InterviewBuddy, link: "https://interviewbuddy.in/" }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
 
