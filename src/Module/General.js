@@ -43,7 +43,9 @@ import solana from "./Assets/sponsorsLogos/Solana-Colored.png"
 import xyz from "./Assets/sponsorsLogos/xyz.png"
 import ecell from "./Assets/sponsorsLogos/ecell.png"
 import pistaHouse from "./Assets/sponsorsLogos/pistaHouse.jpg"
-
+import InterviewBuddy from "./Assets/sponsorsLogos/InterviewBuddy.png"
+import DigitalOcean from "./Assets/sponsorsLogos/DigitalOcean.png"
+import Taskade from "./Assets/sponsorsLogos/taskade.png"
 
 
 
@@ -204,83 +206,83 @@ const TeamInfo = [
   [
     // Array 1
     {
-      Name: "Vashishth Patel",
+      Name: "Mohammed Mohsin",
       role: "Lead Organizer",
-      github: "https://github.com/vasu-1",
-      linkedin: "https://www.linkedin.com/in/vashishth-patel-312a52204/",
-      img: me
+      github: "https://github.com/mdmohsin7",
+      linkedin: "https://www.linkedin.com/in/thatceokid/",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/mohsin_BkDa0R813c"
     },
     {
-      Name: "Ayush Rudani",
-      role: "Organizer",
-      github: "https://github.com/R-Ayush777",
-      linkedin: "https://www.linkedin.com/in/ayush-rudani-7a3516204/",
-      img: ayush
+      Name: "Nida Meher",
+      role: "Co-Organizer",
+      github: "#",
+      linkedin: "https://www.linkedin.com/in/nida-meher-84aa5a1a8",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/nida_TgGbAvj-w"
     },
     {
-      Name: "Smit Padaliya",
-      role: "Organizer",
-      github: "https://github.com/Smit-05",
-      linkedin: "https://www.linkedin.com/in/smit-padaliya-aa03291b8/",
-      img: smit
+      Name: "Mohd Mustafa Akram",
+      role: "Logistics Head",
+      github: "https://github.com/mustafaakram1",
+      linkedin: "https://www.linkedin.com/in/mustafamohd/",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/akram_LQ8W_MAU7"
     }
   ],
   [
     // Array 2
     {
-      Name: "Zenisha Savaliya",
-      role: "Manager",
-      github: "https://github.com/zenishasavaliya",
-      linkedin: "https://www.linkedin.com/in/zenishasavaliya/",
-      img: zenisha
+      Name: "Syed Affan",
+      role: "Tech Head",
+      github: "https://github.com/affan880",
+      linkedin: "https://www.linkedin.com/in/syed-affan/",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/tr:w-370,h-370/affan.JPG"
     },
     {
-      Name: "Parshwa Mehta",
-      role: "Manager & Content",
-      github: "https://github.com/PARSHWA0510",
-      linkedin: "https://www.linkedin.com/in/parshwa-mehta-949306205",
-      img: parshwa
-    },
-    {
-      Name: "Dharmesh Poriya",
-      role: "Manager",
-      github: "https://github.com/Dharmesh-Poriya07",
-      linkedin: "https://www.linkedin.com/in/dharmesh-poriya/",
-      img: dharmesh
-    },
-  ],
-  [
-    // Array 2
-    {
-      Name: "Aneri Sonani",
-      role: "Manager & Web",
-      github: "https://github.com/AneriSonani09",
-      linkedin: "https://www.linkedin.com/in/aneri-sonani-061b44204/",
-      img: aneri
-    },
-    {
-      Name: "Nirali Darji",
-      role: "Design Lead",
+      Name: "Mohammed Jaffer Sulaiman",
+      role: "Design Head",
       github: "#",
-      linkedin: "https://www.linkedin.com/in/nirali-darji-1b766a209",
-      img: nirali
+      linkedin: "#",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Jaffer_4FPIjSt0nT.jpg"
     },
     {
-      Name: "Dhruvi Sherathiya",
-      role: "Outreach Lead",
-      github: "https://github.com/DhruviSherathiya",
-      linkedin: "https://www.linkedin.com/in/dhruvisherathiya",
-      img: dhruvi
+      Name: "Mohammed Bilal",
+      role: "Media Head",
+      github: "https://github.com/notmobilal",
+      linkedin: "https://www.linkedin.com/in/notmobilal/",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/bilal.JPG"
     },
   ],
   [
     // Array 2
     {
-      Name: "Manav Shah",
-      role: "Content Lead",
-      github: "https://github.com/manavshah25",
-      linkedin: "https://www.linkedin.com/in/manav-shah-28a521212",
-      img: manav
+      Name: "Mohammed Shoaib Chy",
+      role: " Outreach Head",
+      github: "https://github.com/mohammedshoaibchoudry78",
+      linkedin: "https://www.linkedin.com/in/mohammedshoaibchoudry/",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/shoaib_NOAxpUajLm"
+    },
+    {
+      Name: "Syed Habeeb Hussaini",
+      role: " Sponsorship Head",
+      github: "#",
+      linkedin: "#",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Habeeb_Ali_PhxEqK3fR.jpg"
+    },
+    {
+      Name: "Mehmood Sameer",
+      role: "Content Head",
+      github: "#",
+      linkedin: "https://www.linkedin.com/in/mehmood-sameer-112992214",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/sameer_UEFRGkQAu"
+    },
+  ],
+  [
+    // Array 2
+    {
+      Name: "Mohammed Faizan",
+      role: "Management Head",
+      github: "#",
+      linkedin: "#",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Faizan_mq-cWwT6l.JPG"
     }
   ]
 ];
@@ -338,7 +340,7 @@ const sponsorLogos = [
 ];
 
 const titlesponsorLogos = [
-  [{ src: devfolio, link: "https://devfolio.co/" }, { src: polygon, link: "https://polygon.technology/" }, { src: masqati, link: "https://www.masqati.com/" }], //Array 1
+  [{ src: masqati, link: "https://www.masqati.com/" }, { src: DigitalOcean, link:"https://www.digitalocean.com/"}], //Array 1
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
@@ -347,14 +349,14 @@ const titlesponsorLogos = [
 
 const goldsponsorLogos = [
   // [  ], //Array 1
-  [{ src: filecoin, link: "https://filecoin.io/" }, { src: replit, link: "https://replit.com/" }, { src: solana, link: "https://www.solana.com/" }], //Array 2
+  [{ src: filecoin, link: "https://filecoin.io/" }, { src: InterviewBuddy, link: "https://interviewbuddy.in/" }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
 
 ];
 
 const silversponsorLogos = [
-  [{ src: xyz, link: "https://www.gen.xyz/" }], //Array 1
+  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: Taskade, link:"https://www.taskade.com/"}], //Array 1
   // [{ src: alan, link: "https://alan.app/" }, { src: shivam, link: "#" }],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3

@@ -54,12 +54,12 @@ function Myinfo() {
 </a>
       */}
 
-      <div
+      {/* <div
         class="apply-button"
         data-hackathon-slug="hackenvision"
         data-button-theme="light"
       // style="height: 44px; width: 312px"
-      ></div>
+      ></div> */}
       {/* &nbsp;&nbsp;
       <a
         href="https://discord.gg/cvHPEK7U3v"
@@ -72,7 +72,7 @@ function Myinfo() {
         </button>
       </a> */}
       <br /><br /><br />
-      <a href="https://hackenvision.devfolio.co/" target="_blank"><button>Learn More</button></a>
+      <a href="https://forms.gle/uKGZnvswYsArmX8z9" target="_blank"><button>Register Now</button></a>
     </div>
 
 

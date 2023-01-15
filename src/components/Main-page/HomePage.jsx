@@ -19,6 +19,7 @@ import TimeLine from "../Timeline/Timeline.jsx";
 import filecoin from "../../Module/Assets/sponsorsLogos/filecoin.png";
 import polygon from "../../Module/Assets/sponsorsLogos/polygon.png";
 import alan from "../../Module/Assets/sponsorsLogos/alan.png";
+import { JudgesInfo } from "../../Module/General";
 
 import {
   TOP_SECTION,
@@ -363,12 +364,12 @@ export default function HomePage(props) {
 
 
         {/* ********Team here ***** */}
-        {/* <h1 id="team">Mentor</h1>
+        {/* <h1 id="team">Mentor</h1> */}
 
 
-        {JudgesInfo.map(TeamMembers)} */}
+        {/* {JudgesInfo.map(TeamMembers)} */}
 
-        {/* <h1 id="teams">Our Team</h1>   */}
+        <h1 id="teams">Our Team</h1>  
         {/* {FOOTER.JOIN_TEAM.required && (
           <JoinTeam
             placeholder="Join our team"
@@ -376,7 +377,7 @@ export default function HomePage(props) {
             content="Interested in joining our team"
           />
         )} */}
-        {/* {TeamInfo.map(TeamMembers)} */}
+        {TeamInfo.map(TeamMembers)}
         {/* ********Team ending here ***** */}
 
         {/* ********Team ending here ***** */}
@@ -389,12 +390,15 @@ export default function HomePage(props) {
         </div>
       </Container>
       <br />
-      <center><div
+      <center>
+        {/* <div
         class="apply-button"
         data-hackathon-slug="hackenvision"
         data-button-theme="light"
       // style="height: 44px; width: 312px"
-      ></div></center>
+        ></div> */}
+        <a href="https://forms.gle/uKGZnvswYsArmX8z9" target="_blank"><button>Register Now</button></a>
+      </center>
 
       <Footer />
       <div class="backtotop" id="back-to-up"><a onClick={scrollToTop}><p><i class="fa-solid fa-arrow-up"></i></p></a></div>
