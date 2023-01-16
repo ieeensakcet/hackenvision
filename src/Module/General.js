@@ -254,11 +254,11 @@ const TeamInfo = [
   [
     // Array 2
     {
-      Name: "Mohammed Shoaib Chy",
+      Name: "Mohammed Shoaib",
       role: " Outreach Head",
       github: "https://github.com/mohammedshoaibchoudry78",
       linkedin: "https://www.linkedin.com/in/mohammedshoaibchoudry/",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/shoaib_NOAxpUajLm"
+      img: "https://ik.imagekit.io/h79kni0wxmd/20230116_152352_Fa5vpd1uT.jpg"
     },
     {
       Name: "Syed Habeeb Hussaini",
