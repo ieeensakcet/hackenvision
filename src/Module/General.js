@@ -340,7 +340,7 @@ const sponsorLogos = [
 ];
 
 const titlesponsorLogos = [
-  [{ src: masqati, link: "https://www.masqati.com/" }, { src: DigitalOcean, link:"https://www.digitalocean.com/"}], //Array 1
+  [{ src: masqati, link: "https://www.masqati.com/" }, { src: pistaHouse, link: "https://www.pistahouse.in/" }, { src: DigitalOcean, link:"https://www.digitalocean.com/"}], //Array 1
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4

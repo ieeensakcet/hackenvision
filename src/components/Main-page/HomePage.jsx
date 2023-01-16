@@ -353,7 +353,7 @@ export default function HomePage(props) {
           <br /><br /> */}
           <h1 className="">Food Sponsors</h1>
           <br />
-          {FoodLogos.map(SponsorGroup)}
+          {/* {FoodLogos.map(SponsorGroup)} */}
         </Row>
         
         {/* ********Sponsors ending here ***** */}
