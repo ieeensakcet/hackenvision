@@ -1,51 +1,17 @@
 import team from "./Assets/team.gif";
 import digilogo from "./Assets/sponsorsLogos/digilogo.png";
-import devfolio from "./Assets/sponsorsLogos/devfolio.png";
-import filecoin from "./Assets/sponsorsLogos/filecoin.png";
-import polygon from "./Assets/sponsorsLogos/polygon.png";
 import shutterbugs from "./Assets/sponsorsLogos/shutterbugs.png";
-import alan from "./Assets/sponsorsLogos/alan.png";
-import koii from "./Assets/sponsorsLogos/koii.png";
-// import celo from "./Assets/sponsorsLogos/celo.png";
-import echo3d from "./Assets/sponsorsLogos/echo3d.png";
 import streamyard from "./Assets/sponsorsLogos/streamyard1.JPG";
-import wolfram from "./Assets/sponsorsLogos/wolfram.jpg";
-import gfg from "./Assets/sponsorsLogos/gfg.png";
-import certopus from "./Assets/sponsorsLogos/certopus.png";
-import prayosys from "./Assets/sponsorsLogos/prayosys.png";
-import shivalika from "./Assets/sponsorsLogos/shivalika.JPG";
-import shivam from "./Assets/sponsorsLogos/shivam.JPG";
-import jay_maharaj from "./Assets/sponsorsLogos/jay_maharaj.jpeg";
-import jay_bhavani from "./Assets/sponsorsLogos/jay_bhavani.jpeg";
-import maruti from "./Assets/sponsorsLogos/maruti.jpeg";
-import replit from "./Assets/sponsorsLogos/replit.png";
-import taskade from "./Assets/sponsorsLogos/taskade.png";
-import interviewbuddy from './Assets/sponsorsLogos/ib.png'
-import digitalocean from './Assets/sponsorsLogos/do.png'
-import cuvette from './Assets/sponsorsLogos/cuvette.png'
-import postman from './Assets/sponsorsLogos/pm.svg'
-
-import zenisha from "./Assets/teami/Zenisha_Savaliya.jpeg";
-import dhruvi from "./Assets/teami/Dhruvi_Sherathiya.jpg";
-
 import me from "./Assets/teami/Vashishth_Patel.jpg";
-import dharmesh from "./Assets/teami/Dharmesh_Poriya.jpg";
 import Ryah from "./Assets/teami/Ryah.jpg";
-import nirali from "./Assets/teami/Nirali.jpeg";
-import smit from "./Assets/teami/smit.jpeg";
-import manav from "./Assets/teami/manav.jpg";
-// import ruchit from "./Assets/teami/Ruchit_Parekh.jpg";
-import parshwa from "./Assets/teami/Parshwa_Mehta.jpg";
-import ayush from "./Assets/teami/Ayush_Rudani.jpg";
-import aneri from "./Assets/teami/Aneri_Sonani.jpg";
 import masqati from "./Assets/sponsorsLogos/masqati.png"
-import solana from "./Assets/sponsorsLogos/Solana-Colored.png"
 import xyz from "./Assets/sponsorsLogos/xyz.png"
 import ecell from "./Assets/sponsorsLogos/ecell.png"
 import pistaHouse from "./Assets/sponsorsLogos/pistaHouse.jpg"
 import InterviewBuddy from "./Assets/sponsorsLogos/InterviewBuddy.png"
 import DigitalOcean from "./Assets/sponsorsLogos/DigitalOcean.png"
 import Taskade from "./Assets/sponsorsLogos/taskade.png"
+import Aops from "./Assets/sponsorsLogos/Aops.png"
 
 
 
@@ -356,7 +322,7 @@ const goldsponsorLogos = [
 ];
 
 const silversponsorLogos = [
-  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: Taskade, link:"https://www.taskade.com/"}], //Array 1
+  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: Taskade, link: "https://www.taskade.com/" }, { src: Aops, link: "https://artofproblemsolving.com/" }], //Array 1
   // [{ src: alan, link: "https://alan.app/" }, { src: shivam, link: "#" }],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
@@ -393,7 +359,7 @@ const frequentlyAskedQuestions = [
       },
       {
         label: "Who can attend?",
-        content: "HackEnvision is open to all undergraduate, high school students, and middle school students from all schools. Unfortunately, only NSAKCET and surrounding college students can attend this event offline. For the rest of the other students, the event would be online."
+        content: "HackEnvision is open to all undergraduate, high school students, and middle school students from all schools. All schools and colleges students can attend this event offline."
       },
       {
         label: "I am a first time hacker, what should I do?",
