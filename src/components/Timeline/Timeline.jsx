@@ -25,7 +25,7 @@ function TimeLine() {
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">End Registrations</span>
-          <span>18th January 2023</span>
+          <span>20th January 2023</span>
         </div>
         {/*<p  className="timeline_text" style={{fontSize: "14px"}}>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
        */}
