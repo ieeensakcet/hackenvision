@@ -12,6 +12,8 @@ import InterviewBuddy from "./Assets/sponsorsLogos/InterviewBuddy.png"
 import DigitalOcean from "./Assets/sponsorsLogos/DigitalOcean.png"
 import Taskade from "./Assets/sponsorsLogos/taskade.png"
 import Aops from "./Assets/sponsorsLogos/Aops.png"
+import LIET from "./Assets/sponsorsLogos/LIET.png"
+
 
 
 
@@ -331,7 +333,7 @@ const silversponsorLogos = [
 ];
 
 const bronzeponsorLogos = [
-  [{ src: ecell, link: "https://ecellmjcet.com/" }], //Array 1
+  [{ src: ecell, link: "https://ecellmjcet.com/" }, { src: LIET, link: "https://instagram.com/ieee_liet" }], //Array 1
   // [{ src: koii, link: "https://www.koii.network/" }, { src: postman, link: "https://postman.com/" }, {src: prayosys, link: "https://prayosys.com/"}],
   // [{src: shivalika, link: "#"}, {src: cuvette, link: "https://www.cuvette.tech/"}],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
