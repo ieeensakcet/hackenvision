@@ -17,9 +17,9 @@ import Aops from "./Assets/sponsorsLogos/Aops.png"
 
 const TOP_SECTION = {
   TITLE: "HackEnvision",
-  Typed_effect: ["21st January 2023", "Win awesome prizes", "Events And Sessions"],
+  Typed_effect: ["22nd January 2023", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
-    "Join us on 21st of January 2023 for 8 hours of creation, innovation, & fun with over 150+ students.",
+    "Join us on 22nd of January 2023 for 8 hours of creation, innovation, & fun with over 150+ students.",
   IMG_SRC: team,
   // DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
   JUDGES_FORM_LINK:
@@ -40,7 +40,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: "What is HackEnvision?",
   LONG_DESCRIPTION:
-    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 150+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 21st of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
+    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 150+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 22nd of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
