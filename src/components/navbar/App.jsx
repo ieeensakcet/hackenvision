@@ -39,7 +39,7 @@ const NAVBAR = () => {
     };
   }, []);
   const [toggle, setToggle] = useState(true);
-  const [color, setColor] = useState("#121930");
+  const [color, setColor] = useState("#FF407A");
 
   const navigation = useRef();
 

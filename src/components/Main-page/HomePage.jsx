@@ -179,8 +179,10 @@ export default function HomePage(props) {
 
         <Row className="prizesection" id="prizes">
           <PrizeHeading type="Prizes" />
+          <PrizeHeading type="To be announced soon!" />
         </Row>
-        <div class="row1-container">
+        {/* PRIZES HERE */}
+        {/* <div class="row1-container">
 
           <div class="box red">
             <h2>Overall First</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/1st-place-medal-emoji.png" alt="" />
@@ -197,13 +199,6 @@ export default function HomePage(props) {
             <h4><b>Prize</b>: Rs. 1000 <br />$125 DO credits<br />Vouchers and promo codes</h4>
           </div>
         </div>
-        {/*      <div class="row2-container">
-        <div class="box orange">
-          <h2>Karma</h2>
-          <p>Regularly evaluates our talent to ensure quality</p>
-          <img class="imgright" src="https://assets.codepen.io/2301174/icon-karma.svg" alt="" />
-        </div>
-      </div>*/}
         <div class="row1-container margfromsponsor">
           <div class="box box-down color2">
             <h2>Best Juniors Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
@@ -219,102 +214,10 @@ export default function HomePage(props) {
             <h2>All Participants</h2><img class="imgright" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-prizes-circus-flaticons-lineal-color-flat-icons.png" alt="" />
             <h4>$200 DO credits and Participation Certificate<br />Vouchers and promo codes</h4>
           </div>
-        </div>
+        </div> */}
         <center>
 
           <div class="containertrack">
-            {/* <div class="cardtrack">
-              <div class="boxtrack">
-                <div class="contenttrack">
-                  <img className="imgtrack" src={polygon} />
-                  <br /><br />
-                  <b><lu>
-                    <li>₹10,000 for the best hack built on Ethereum,</li>
-                    <li>or ₹15,000 for the best hack built on Ethereum + Polygon.</li>
-                    <li>Eligibility to apply for internship/full-time roles and seed funding of up to 5,000 USD for winners!</li>
-                  </lu></b>
-                  <a href="https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c">Read More</a>
-                </div>
-              </div>
-            </div> */}
-
-            {/* <div class="cardtrack">
-              <div class="boxtrack">
-                <div class="contenttrack">  
-                  <img className="imgtrack" src={koii} />
-                  <br /><br />
-                  <b>
-
-                    <lu>
-
-                      <li>$200 prize for best use of koii network.</li>
-                      <li>$100 prize for second best use of koii network.</li>
-                      <h5>Guidelines:</h5>
-                      <lu>
-                        
-                        <li>UI must be responsive.</li>
-                        <li>Prizes may vary based on the project complexity.</li>
-                      </lu>
-                      
-
-                    </lu>
-
-                  </b>
-                </div>
-              </div>
-            </div> */}
-
-            {/* <div class="cardtrack">
-              <div class="boxtrack">
-                <div class="contenttrack">  
-                  <img className="imgtrack" src={alan} />
-                  <br /><br />
-                  <b>
-
-                    <lu>
-
-                      <li>Alan track prize winner ₹7,500</li>
-                      <h5>Guidelines:</h5>
-                      <lu>
-                        
-                        <li>UI must be responsive.</li>
-                        <li>Project must use the Alan Ai slots method in the project.</li>
-                        <li>Project should be live.</li>
-                      </lu>
-                      
-
-                    </lu>
-
-                  </b>
-                </div>
-              </div>
-            </div> */}
-
-            {/* <div class="cardtrack">
-              <div class="boxtrack">
-                <div class="contenttrack">
-                  <img className="imgtrack" src={filecoin} />
-                  <br /><br />
-                  <b><lu>
-                    <li>₹20000 for best use of IPFS and/or Filecoin.</li>
-                  </lu></b>
-                  <a href="https://devfolio.notion.site/Filecoin-Devfolio-Hackathon-Season-Prize-998fc3fe477e474086ae1d5ed1685203">Read More</a>
-                </div>
-              </div>
-            </div> */}
-
-            {/*<div class="cardtrack">
-              <div class="boxtrack">
-                <div class="contenttrack">
-                  <img className="imgtrack" src={celo} />
-                  <br /><br />
-                  <b><lu>
-                    <li>₹20000 for best Dapp built on Celo.</li>
-                  </lu></b>
-                  <a href="https://www.notion.so/Celo-Devfolio-Hackathon-Season-Prize-8b98dac17f134abeae863d5d98c01ff0">Read More</a>
-                </div>
-              </div>
-            </div>*/}
           </div>
         </center>
         {/* *******Prizes here ***** */}
@@ -391,9 +294,10 @@ export default function HomePage(props) {
         class="apply-button"
         data-hackathon-slug="hackenvision"
         data-button-theme="light"
-      // style="height: 44px; width: 312px"
-        ></div> */}
-        <a href="https://forms.gle/uKGZnvswYsArmX8z9" target="_blank"><button>Register Now</button></a>
+      style="height: 44px; width: 312px"
+        ></div> */
+        }
+        <a href="https://forms.gle/bD8vGrseMTXfF2ZN8" target="_blank" style={{color: "red"}} ><button>Register Now</button></a>
       </center>
 
       <Footer />

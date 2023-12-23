@@ -72,7 +72,7 @@ function Myinfo() {
         </button>
       </a> */}
       <br /><br /><br />
-      <a href="https://forms.gle/uKGZnvswYsArmX8z9" target="_blank"><button>Register Now</button></a>
+      <a href="https://forms.gle/bD8vGrseMTXfF2ZN8" target="_blank" ><button>Register Now</button></a>
     </div>
 
 

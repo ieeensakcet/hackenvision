@@ -12,16 +12,17 @@ import InterviewBuddy from "./Assets/sponsorsLogos/InterviewBuddy.png"
 import DigitalOcean from "./Assets/sponsorsLogos/DigitalOcean.png"
 import Taskade from "./Assets/sponsorsLogos/taskade.png"
 import Aops from "./Assets/sponsorsLogos/Aops.png"
-import LIET from "./Assets/sponsorsLogos/LIET.png"
+import SnapSeva from "./Assets/sponsorsLogos/snapseva.png"
+import echo3d from "./Assets/sponsorsLogos/echo3d.png"
 
 
 
 
 const TOP_SECTION = {
-  TITLE: "HackEnvision",
-  Typed_effect: ["22nd January 2023", "Win awesome prizes", "Events And Sessions"],
+  TITLE: "HackEnvision 2.0",
+  Typed_effect: ["14th January 2024", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
-    "Join us on 22nd of January 2023 for 8 hours of creation, innovation, & fun with over 150+ students.",
+    "Join us on 14th of January 2024 for 8 hours of creation, innovation, & fun with over 250+ students.",
   IMG_SRC: team,
   // DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
   JUDGES_FORM_LINK:
@@ -40,9 +41,9 @@ const SOCIALS = {
 };
 
 const MIDDLE_SECTION = {
-  TITLE: "What is HackEnvision?",
+  TITLE: "What is HackEnvision 2.0?",
   LONG_DESCRIPTION:
-    "HackEnvision is IEEE NSAKCET Student Branch’s largest hackathon, bringing together 150+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 22nd of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
+    "HackEnvision 2.0 is the 2nd edition of IEEE NSAKCET Student Branch’s largest hackathon, bringing together 250+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 14th of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -174,21 +175,21 @@ const TeamInfo = [
   [
     // Array 1
     {
-      Name: "Mohammed Mohsin",
+      Name: "Shaikh Rayyan",
       role: "Lead Organizer",
       github: "https://github.com/mdmohsin7",
       linkedin: "https://www.linkedin.com/in/thatceokid/",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/mohsin_BkDa0R813c"
+      img: "https://ik.imagekit.io/rayyan102/HackEnvision%202.0/tr:w-370,h-370//r1.2.1.jpg"
     },
     {
-      Name: "Nida Meher",
+      Name: "Mehvish Fatima",
       role: "Co-Organizer",
       github: "#",
       linkedin: "https://www.linkedin.com/in/nida-meher-84aa5a1a8",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/nida_TgGbAvj-w"
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/WIE/tr:w-370,h-370/mehvish_cse_MhADXDewms"
     },
     {
-      Name: "Mohd Mustafa Akram",
+      Name: "Musab Latifi",
       role: "Logistics Head",
       github: "https://github.com/mustafaakram1",
       linkedin: "https://www.linkedin.com/in/mustafamohd/",
@@ -212,7 +213,7 @@ const TeamInfo = [
       img: "https://ik.imagekit.io/ieeensakcet/profiles/Jaffer_4FPIjSt0nT.jpg"
     },
     {
-      Name: "Mohammed Bilal",
+      Name: "Saad Abdul Hakeem",
       role: "Media Head",
       github: "https://github.com/notmobilal",
       linkedin: "https://www.linkedin.com/in/notmobilal/",
@@ -222,11 +223,11 @@ const TeamInfo = [
   [
     // Array 2
     {
-      Name: "Mohammed Shoaib",
+      Name: "Hedayathullah Imamuddin",
       role: " Outreach Head",
       github: "https://github.com/mohammedshoaibchoudry78",
       linkedin: "https://www.linkedin.com/in/mohammedshoaibchoudry/",
-      img: "https://ik.imagekit.io/h79kni0wxmd/20230116_152352_Fa5vpd1uT.jpg"
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/hedayath_SPiV0uUFO"
     },
     {
       Name: "Syed Habeeb Hussaini",
@@ -236,22 +237,29 @@ const TeamInfo = [
       img: "https://ik.imagekit.io/ieeensakcet/profiles/Habeeb_Ali_PhxEqK3fR.jpg"
     },
     {
-      Name: "Mehmood Sameer",
+      Name: "Hussain Abid",
       role: "Content Head",
       github: "#",
       linkedin: "https://www.linkedin.com/in/mehmood-sameer-112992214",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/sameer_UEFRGkQAu"
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/CS/tr:w-370,h-370/hussain_1-lcRKWRJ"
     },
   ],
   [
     // Array 2
     {
-      Name: "Mohammed Faizan",
+      Name: "Mohammed Ismail Ali",
       role: "Management Head",
       github: "#",
       linkedin: "#",
       img: "https://ik.imagekit.io/ieeensakcet/profiles/Faizan_mq-cWwT6l.JPG"
-    }
+    },
+    {
+      Name: "Mohammed Mohsin",
+      role: "Mentor",
+      github: "https://github.com/mdmohsin7",
+      linkedin: "https://www.linkedin.com/in/thatceokid/",
+      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/mohsin_BkDa0R813c"
+    },
   ]
 ];
 
@@ -317,14 +325,14 @@ const titlesponsorLogos = [
 
 const goldsponsorLogos = [
   // [  ], //Array 1
-  [{ src: InterviewBuddy, link: "https://interviewbuddy.in/" }], //Array 2
+  [{ src: InterviewBuddy, link: "https://interviewbuddy.in/" },{ src: SnapSeva, link: "https://snapseva.com/" }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
 
 ];
 
 const silversponsorLogos = [
-  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: Taskade, link: "https://www.taskade.com/" }, { src: Aops, link: "https://artofproblemsolving.com/" }], //Array 1
+  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: Taskade, link: "https://www.taskade.com/" }, { src: echo3d, link: "https://www.echo3d.com/" }], //Array 1
   // [{ src: alan, link: "https://alan.app/" }, { src: shivam, link: "#" }],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
@@ -333,7 +341,7 @@ const silversponsorLogos = [
 ];
 
 const bronzeponsorLogos = [
-  [{ src: ecell, link: "https://ecellmjcet.com/" }, { src: LIET, link: "https://instagram.com/ieee_liet" }], //Array 1
+  [{ src: ecell, link: "https://ecellmjcet.com/" }], //Array 1
   // [{ src: koii, link: "https://www.koii.network/" }, { src: postman, link: "https://postman.com/" }, {src: prayosys, link: "https://prayosys.com/"}],
   // [{src: shivalika, link: "#"}, {src: cuvette, link: "https://www.cuvette.tech/"}],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
