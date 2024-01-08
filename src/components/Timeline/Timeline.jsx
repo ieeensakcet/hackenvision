@@ -14,7 +14,7 @@ function TimeLine() {
         <i class="icon fas fa-home"></i>
         <div class="details">
           <span class="title">Registrations Start</span>
-          <span>26th December 2023</span>
+          <span>7th January 2024</span>
         </div>
         {/*<p className="timeline_text" style={{fontSize: "14px"}}>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
         */}
@@ -25,7 +25,7 @@ function TimeLine() {
         <i class="icon fas fa-star"></i>
         <div class="details">
           <span class="title">Registrations End</span>
-          <span>10th January 2024</span>
+          <span>20th January 2024</span>
         </div>
         {/*<p  className="timeline_text" style={{fontSize: "14px"}}>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
        */}
