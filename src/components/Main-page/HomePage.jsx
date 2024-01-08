@@ -16,8 +16,6 @@ import { Member } from "../team/team.jsx";
 import pattern from "./pattern4.png";
 import ThemeType from "../Themes/theme.jsx";
 import TimeLine from "../Timeline/Timeline.jsx";
-import filecoin from "../../Module/Assets/sponsorsLogos/filecoin.png";
-import polygon from "../../Module/Assets/sponsorsLogos/polygon.png";
 import alan from "../../Module/Assets/sponsorsLogos/alan.png";
 import { JudgesInfo } from "../../Module/General";
 
@@ -297,7 +295,7 @@ export default function HomePage(props) {
       style="height: 44px; width: 312px"
         ></div> */
         }
-        <a href="https://forms.gle/bD8vGrseMTXfF2ZN8" target="_blank" style={{color: "red"}} ><button>Register Now</button></a>
+        <a href="https://bit.ly/3NTgRn2" target="_blank" style={{color: "red"}} ><button>Register Now</button></a>
       </center>
 
       <Footer />

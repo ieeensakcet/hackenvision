@@ -1,34 +1,32 @@
-import team from "./Assets/team.gif";
+import team from "./Assets/cover.jpg";
 import digilogo from "./Assets/sponsorsLogos/digilogo.png";
-import shutterbugs from "./Assets/sponsorsLogos/shutterbugs.png";
 import streamyard from "./Assets/sponsorsLogos/streamyard1.JPG";
-import me from "./Assets/teami/Vashishth_Patel.jpg";
-import Ryah from "./Assets/teami/Ryah.jpg";
 import masqati from "./Assets/sponsorsLogos/masqati.png"
 import xyz from "./Assets/sponsorsLogos/xyz.png"
 import ecell from "./Assets/sponsorsLogos/ecell.png"
 import pistaHouse from "./Assets/sponsorsLogos/pistaHouse.jpg"
 import InterviewBuddy from "./Assets/sponsorsLogos/InterviewBuddy.png"
 import DigitalOcean from "./Assets/sponsorsLogos/DigitalOcean.png"
-import Taskade from "./Assets/sponsorsLogos/taskade.png"
-import Aops from "./Assets/sponsorsLogos/Aops.png"
 import SnapSeva from "./Assets/sponsorsLogos/snapseva.png"
 import echo3d from "./Assets/sponsorsLogos/echo3d.png"
-
+import aces from "./Assets/sponsorsLogos/aces.png"
+import gfg from "./Assets/sponsorsLogos/gfg.png"
+import sio from "./Assets/sponsorsLogos/sio.jpg"
+import axure from "./Assets/sponsorsLogos/axure.svg"
 
 
 
 const TOP_SECTION = {
   TITLE: "HackEnvision 2.0",
-  Typed_effect: ["14th January 2024", "Win awesome prizes", "Events And Sessions"],
+  Typed_effect: ["21st January 2024", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
-    "Join us on 14th of January 2024 for 8 hours of creation, innovation, & fun with over 250+ students.",
+    "Join us on s1st of January 2024 for 8 hours of creation, innovation, & fun with over 250+ students.",
   IMG_SRC: team,
   // DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
   JUDGES_FORM_LINK:
     "#Jugdes Form Link",
-  HACKERS_REGISTRATION_FORM_LINK:
-    "#Hackers Registration devfolio link"
+  HACKERS_REGISTRATION_FORM_LINK: "https://bit.ly/3NTgRn2"
+    // "#Hackers Registration devfolio link"
 };
 
 const SOCIALS = {
@@ -43,7 +41,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: "What is HackEnvision 2.0?",
   LONG_DESCRIPTION:
-    "HackEnvision 2.0 is the 2nd edition of IEEE NSAKCET Student Branch’s largest hackathon, bringing together 250+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 14th of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
+    "HackEnvision 2.0 is the 2nd edition of IEEE NSAKCET Student Branch’s largest hackathon, bringing together 250+ students from around the city to learn about new technologies, build innovative projects, and share their work with the community! The hackathon will take place over 8 hours, on 21st of January. It will be hosted at Nawab Shah Alam Khan College of Engineering and Technology (NSAKCET), Malakpet, Hyderabad.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -266,44 +264,44 @@ const TeamInfo = [
 const JudgesInfo = [
   [
     // Array 1
-    {
-      Name: "Rehan",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
-      img: me
-    },
-    {
-      Name: "Moon",
-      role: "Manager",
-      github: "",
-      linkedin: "",
-      img: Ryah
-    },
-    {
-      Name: "Ryah Garcia",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
-      img: Ryah
-    }
+    // {
+    //   Name: "Rehan",
+    //   role: "Organizer",
+    //   github: "",
+    //   linkedin: "",
+    //   img: me
+    // },
+    // {
+    //   Name: "Moon",
+    //   role: "Manager",
+    //   github: "",
+    //   linkedin: "",
+    //   img: Ryah
+    // },
+    // {
+    //   Name: "Ryah Garcia",
+    //   role: "Organizer",
+    //   github: "",
+    //   linkedin: "",
+    //   img: Ryah
+    // }
   ],
   [
     // Array 2
-    {
-      Name: "Lyanola",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
-      img: Ryah
-    },
-    {
-      Name: "Zoheb",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
-      img: Ryah
-    }
+    // {
+    //   Name: "Lyanola",
+    //   role: "Organizer",
+    //   github: "",
+    //   linkedin: "",
+    //   img: Ryah
+    // },
+    // {
+    //   Name: "Zoheb",
+    //   role: "Organizer",
+    //   github: "",
+    //   linkedin: "",
+    //   img: Ryah
+    // }
   ]
 ];
 
@@ -316,7 +314,11 @@ const sponsorLogos = [
 ];
 
 const titlesponsorLogos = [
-  [{ src: masqati, link: "https://www.masqati.com/" }, { src: pistaHouse, link: "https://www.pistahouse.in/" }, { src: DigitalOcean, link:"https://www.digitalocean.com/"}], //Array 1
+  [ { src: axure, link: "https://www.axure.com/" },
+  { src: aces, link: "https://www.aces-co.com/" },
+  //   { src: DigitalOcean, link:"https://www.digitalocean.com/"}
+  ],
+     //Array 1
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
@@ -325,14 +327,14 @@ const titlesponsorLogos = [
 
 const goldsponsorLogos = [
   // [  ], //Array 1
-  [{ src: InterviewBuddy, link: "https://interviewbuddy.in/" },{ src: SnapSeva, link: "https://snapseva.com/" }], //Array 2
+  [{ src: gfg, link: "https://geeksforgeeks.org/" },{ src: SnapSeva, link: "https://snapseva.com/" },{ src: sio, link: "https://sio-india.org/" }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
   // [{ src: egg }, { src: ll }, { src: ACF }] //Array 4
 
 ];
 
 const silversponsorLogos = [
-  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: Taskade, link: "https://www.taskade.com/" }, { src: echo3d, link: "https://www.echo3d.com/" }], //Array 1
+  [{ src: xyz, link: "https://www.gen.xyz/" }, { src: InterviewBuddy, link: "https://interviewbuddy.in/" }, { src: echo3d, link: "https://www.echo3d.com/" }], //Array 1
   // [{ src: alan, link: "https://alan.app/" }, { src: shivam, link: "#" }],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
   // [{ src: interviewC }, { src: pass }, { src: glimpse }], //Array 3
@@ -355,7 +357,9 @@ const FoodLogos = [
 ];
 
 const designlogo = [
-  [{ src: digilogo, link: "https://www.instagram.com/digicosmic_studio/" }, { src: streamyard, link: "https://streamyard.com/" }, { src: shutterbugs, link: "https://www.instagram.com/shutterbugs_ddu/?hl=en" }]
+  [{ src: digilogo, link: "https://www.instagram.com/digicosmic_studio/" }, 
+  //{ src: streamyard, link: "https://streamyard.com/" }, { src: shutterbugs, link: "https://www.instagram.com/shutterbugs_ddu/?hl=en" }
+]
 ];
 
 

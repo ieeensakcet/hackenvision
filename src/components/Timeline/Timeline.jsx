@@ -48,7 +48,7 @@ function TimeLine() {
               <i class="icon fas fa-globe"></i>
               <div class="details">
                 <span class="title">Hackathon Starts</span>
-                <span>14th January 2024</span>
+                <span>21st January 2024</span>
               </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon ideation phase will start from 9:30 AM onwards.</p>
             </section>
@@ -58,7 +58,7 @@ function TimeLine() {
               <i class="icon fas fa-star"></i>
               <div class="details">
                 <span class="title">Hacking Phase 1 (Initial MVP)</span>
-                <span>14th January 2023</span>
+                <span>21st January 2023</span>
               </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-1 will start from 10:30 AM onwards.</p>
             </section>
@@ -68,7 +68,7 @@ function TimeLine() {
               <i class="icon fas fa-star"></i>
               <div class="details">
                 <span class="title">Evaluation of Phase-1</span>
-                <span>14th January 2024</span>
+                <span>21st January 2024</span>
               </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation of Phase-1 starts from 2:00 PM onwards. Teams will have to pitch their idea to judges alongside the initial MVP. Only top 20 teams will move to the next phase</p>
             </section>
@@ -78,7 +78,7 @@ function TimeLine() {
               <i class="icon fas fa-star"></i>
               <div class="details">
                 <span class="title">Hacking Phase 2</span>
-                <span>14th January 2024</span>
+                <span>21st January 2024</span>
               </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-2 period will start from 2:30 PM onwards.</p>
             </section>
@@ -88,7 +88,7 @@ function TimeLine() {
               <i class="icon fas fa-star"></i>
               <div class="details">
                 <span class="title">Evaluation of Phase-2</span>
-                <span>14th January 2024</span>
+                <span>21st January 2024</span>
               </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation of Phase-1 starts from 5:00 PM onwards. Teams will only have 2 minutes to demo their project in front of judges.</p>
             </section>
@@ -98,7 +98,7 @@ function TimeLine() {
         <i class="icon fas fa-globe"></i>
         <div class="details">
           <span class="title">Hackathon Ends</span>
-          <span>14th January 2024</span>
+          <span>21st January 2024</span>
         </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Prize Distribution and Closing ceremony will end by 7:00 PM.</p>  
       </section>
