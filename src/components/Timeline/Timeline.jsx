@@ -90,7 +90,7 @@ function TimeLine() {
                 <span class="title">Evaluation of Phase-2</span>
                 <span>21st January 2024</span>
               </div>
-              <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation of Phase-1 starts from 5:00 PM onwards. Teams will only have 2 minutes to demo their project in front of judges.</p>
+              <p className="timeline_text" style={{ fontSize: "14px" }}>Evaluation of Phase-2 starts from 5:00 PM onwards. Teams will only have 2 minutes to demo their project in front of judges.</p>
             </section>
           </div>
     <div class="row row-2">

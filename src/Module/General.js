@@ -20,7 +20,7 @@ const TOP_SECTION = {
   TITLE: "HackEnvision 2.0",
   Typed_effect: ["21st January 2024", "Win awesome prizes", "Events And Sessions"],
   SHORT_DESCRIPTION:
-    "Join us on s1st of January 2024 for 8 hours of creation, innovation, & fun with over 250+ students.",
+    "Join us on 21st of January 2024 for 8 hours of creation, innovation, & fun with over 250+ students.",
   IMG_SRC: team,
   // DISCORD_LINK: "https://discord.gg/cvHPEK7U3v",
   JUDGES_FORM_LINK:
@@ -175,33 +175,33 @@ const TeamInfo = [
     {
       Name: "Shaikh Rayyan",
       role: "Lead Organizer",
-      github: "https://github.com/mdmohsin7",
-      linkedin: "https://www.linkedin.com/in/thatceokid/",
+      github: "#",
+      linkedin: "#",
       img: "https://ik.imagekit.io/rayyan102/HackEnvision%202.0/tr:w-370,h-370//r1.2.1.jpg"
     },
     {
       Name: "Mehvish Fatima",
-      role: "Co-Organizer",
+      role: "Lead Organizer",
       github: "#",
-      linkedin: "https://www.linkedin.com/in/nida-meher-84aa5a1a8",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/WIE/tr:w-370,h-370/mehvish_cse_MhADXDewms"
+      linkedin: "#",
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Mehvish.jpg"
     },
     {
       Name: "Musab Latifi",
       role: "Logistics Head",
-      github: "https://github.com/mustafaakram1",
-      linkedin: "https://www.linkedin.com/in/mustafamohd/",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/akram_LQ8W_MAU7"
+      github: "#",
+      linkedin: "#",
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Musab.jpg"
     }
   ],
   [
     // Array 2
     {
-      Name: "Syed Affan",
+      Name: "Mohammed Abdul Raheem",
       role: "Tech Head",
-      github: "https://github.com/affan880",
-      linkedin: "https://www.linkedin.com/in/syed-affan/",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/tr:w-370,h-370/affan.JPG"
+      github: "#",
+      linkedin: "#",
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Raheem.jpg"
     },
     {
       Name: "Mohammed Jaffer Sulaiman",
@@ -213,32 +213,32 @@ const TeamInfo = [
     {
       Name: "Saad Abdul Hakeem",
       role: "Media Head",
-      github: "https://github.com/notmobilal",
-      linkedin: "https://www.linkedin.com/in/notmobilal/",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/bilal.JPG"
+      github: "#",
+      linkedin: "#",
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/saad.jpg"
     },
   ],
   [
     // Array 2
     {
       Name: "Hedayathullah Imamuddin",
-      role: " Outreach Head",
-      github: "https://github.com/mohammedshoaibchoudry78",
-      linkedin: "https://www.linkedin.com/in/mohammedshoaibchoudry/",
+      role: "Outreach Head",
+      github: "#",
+      linkedin: "#",
       img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/hedayath_SPiV0uUFO"
     },
     {
-      Name: "Syed Habeeb Hussaini",
-      role: " Sponsorship Head",
+      Name: "Jawdan Zulfiquer",
+      role: "Sponsorship Head",
       github: "#",
       linkedin: "#",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Habeeb_Ali_PhxEqK3fR.jpg"
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Jawadan.jpeg"
     },
     {
       Name: "Hussain Abid",
       role: "Content Head",
       github: "#",
-      linkedin: "https://www.linkedin.com/in/mehmood-sameer-112992214",
+      linkedin: "#",
       img: "https://ik.imagekit.io/ieeensakcet/profiles/CS/tr:w-370,h-370/hussain_1-lcRKWRJ"
     },
   ],
@@ -249,7 +249,7 @@ const TeamInfo = [
       role: "Management Head",
       github: "#",
       linkedin: "#",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/Faizan_mq-cWwT6l.JPG"
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/bp.jpg"
     },
     {
       Name: "Mohammed Mohsin",
