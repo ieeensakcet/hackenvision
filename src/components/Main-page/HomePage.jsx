@@ -177,42 +177,54 @@ export default function HomePage(props) {
 
         <Row className="prizesection" id="prizes">
           <PrizeHeading type="Prizes" />
-          <PrizeHeading type="To be announced soon!" />
+          <PrizeHeading type="Continuosly Updated!" />
         </Row>
         {/* PRIZES HERE */}
-        {/* <div class="row1-container">
+        <div class="row1-container">
 
           <div class="box red">
             <h2>Overall First</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/1st-place-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 7000<br />$500 DO credits<br />Vouchers and promo codes</h4>
+            <h4><b>Prize</b>: Rs. 8000<br />$500 Axure RP License<br />G4G Swags, vouchers and promo codes</h4>
           </div>
 
           <div class="box box-down cyan">
             <h2>Overall Second</h2><img className="imgright" src="https://img.icons8.com/emoji/96/000000/2nd-place-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 5000 <br />$250 DO credits<br />Vouchers and promo codes</h4>
+            <h4><b>Prize</b>: Rs. 5000 <br />$500 Axure RP License<br />Swags, vouchers and promo codes</h4>
           </div>
 
           <div class="box box-down blue">
-            <h2>Best Womens Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 1000 <br />$125 DO credits<br />Vouchers and promo codes</h4>
+            <h2>Overall Third</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
+            <h4><b>Prize</b>: Rs. 3000 <br />G4G Vouchers<br />Swags, vouchers and promo codes</h4>
           </div>
         </div>
         <div class="row1-container margfromsponsor">
           <div class="box box-down color2">
             <h2>Best Juniors Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 1000 <br />$125 DO credits<br />Vouchers and promo codes</h4>
+            <h4><b>Prize</b>: Rs. 2000 <br />Credits<br />Vouchers and promo codes</h4>
           </div>
 
-          <div class="box color1">
+          <div class="box box-down color2">
             <h2>Best NSAKCET Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
-            <h4><b>Prize</b>: Rs. 1000 <br />$125 DO credits<br />Vouchers and promo codes</h4>
+            <h4><b>Prize</b>: Rs. 1000 <br />Credits<br />Vouchers and promo codes</h4>
           </div>
 
+          <div class="box box-down color2">
+            <h2>Best Women's Team</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
+            <h4><b>Prize</b>: Rs. 2000 <br />Credits<br />Vouchers and promo codes</h4>
+          </div>
+        </div>
+        <div class="row1-container margfromsponsor">
+        <div class="box box-down color2">
+            <h2>Best Innovative Idea</h2><img class="imgright" src="https://img.icons8.com/emoji/96/000000/sports-medal-emoji.png" alt="" />
+            <h4><b>Prize</b>: Rs. 2000 <br />Credits<br />Vouchers and promo codes</h4>
+          </div>
+        </div>
+        <div class="row1-container margfromsponsor">
           <div class="box box-down orange">
             <h2>All Participants</h2><img class="imgright" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-prizes-circus-flaticons-lineal-color-flat-icons.png" alt="" />
-            <h4>$200 DO credits and Participation Certificate<br />Vouchers and promo codes</h4>
+            <h4>Free .xyz Domain <br/> Participation Certificate<br />Vouchers and promo codes</h4>
           </div>
-        </div> */}
+        </div>
         <center>
 
           <div class="containertrack">
