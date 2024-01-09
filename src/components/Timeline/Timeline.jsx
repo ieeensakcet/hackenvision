@@ -58,7 +58,7 @@ function TimeLine() {
               <i class="icon fas fa-star"></i>
               <div class="details">
                 <span class="title">Hacking Phase 1 (Initial MVP)</span>
-                <span>21st January 2023</span>
+                <span>21st January 2024</span>
               </div>
               <p className="timeline_text" style={{ fontSize: "14px" }}>Hackathon Phase-1 will start from 10:30 AM onwards.</p>
             </section>
