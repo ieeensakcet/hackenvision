@@ -176,22 +176,22 @@ const TeamInfo = [
       Name: "Shaikh Rayyan",
       role: "Lead Organizer",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/rayyan-abulkaram-95574b226",
       img: "https://ik.imagekit.io/rayyan102/HackEnvision%202.0/tr:w-370,h-370//r1.2.1.jpg"
     },
     {
       Name: "Mehvish Fatima",
       role: "Lead Organizer",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/mehvish-fatima-5a1b13237",
       img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Mehvish.jpg"
     },
     {
       Name: "Musab Latifi",
       role: "Logistics Head",
       github: "#",
-      linkedin: "#",
-      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Musab.jpg"
+      linkedin: "https://www.linkedin.com/in/musab-latifi-%F0%9F%87%AE%F0%9F%87%B3-a6ba69225",
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/1704882032269.jpg"
     }
   ],
   [
@@ -200,21 +200,21 @@ const TeamInfo = [
       Name: "Mohammed Abdul Raheem",
       role: "Tech Head",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://in.linkedin.com/in/mohammed-abdul-raheem-194b70119",
       img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/Raheem.jpg"
     },
     {
       Name: "Mohammed Jaffer Sulaiman",
       role: "Design Head",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/jaffer-sulaiman-803526213",
       img: "https://ik.imagekit.io/ieeensakcet/profiles/Jaffer_4FPIjSt0nT.jpg"
     },
     {
       Name: "Saad Abdul Hakeem",
       role: "Media Head",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/saad-abdul-hakeem-43554327a",
       img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/saad.jpg"
     },
   ],
@@ -224,7 +224,7 @@ const TeamInfo = [
       Name: "Hedayathullah Imamuddin",
       role: "Outreach Head",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/hedayathullah-imamuddin",
       img: "https://ik.imagekit.io/ieeensakcet/profiles/Leadership_Team/tr:w-370,h-370/hedayath_SPiV0uUFO"
     },
     {
@@ -238,8 +238,8 @@ const TeamInfo = [
       Name: "Hussain Abid",
       role: "Content Head",
       github: "#",
-      linkedin: "#",
-      img: "https://ik.imagekit.io/ieeensakcet/profiles/CS/tr:w-370,h-370/hussain_1-lcRKWRJ"
+      linkedin: "https://www.linkedin.com/in/mohammed-hussain-abid-khan-47a480252",
+      img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/hussain.jpg"
     },
   ],
   [
@@ -248,7 +248,7 @@ const TeamInfo = [
       Name: "Mohammed Ismail Ali",
       role: "Management Head",
       github: "#",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/ismailali2004",
       img: "https://ik.imagekit.io/hackenvision/HackEnvision%202.0/tr:w-370,h-370/bp.jpg"
     },
     {
