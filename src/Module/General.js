@@ -1,18 +1,17 @@
 import team from "./Assets/cover.jpg";
 import digilogo from "./Assets/sponsorsLogos/digilogo.png";
-import streamyard from "./Assets/sponsorsLogos/streamyard1.JPG";
-import masqati from "./Assets/sponsorsLogos/masqati.png"
 import xyz from "./Assets/sponsorsLogos/xyz.png"
 import ecell from "./Assets/sponsorsLogos/ecell.png"
 import pistaHouse from "./Assets/sponsorsLogos/pistaHouse.jpg"
 import InterviewBuddy from "./Assets/sponsorsLogos/InterviewBuddy.png"
-import DigitalOcean from "./Assets/sponsorsLogos/DigitalOcean.png"
 import SnapSeva from "./Assets/sponsorsLogos/snapseva.png"
 import echo3d from "./Assets/sponsorsLogos/echo3d.png"
 import aces from "./Assets/sponsorsLogos/aces.png"
 import gfg from "./Assets/sponsorsLogos/gfg.png"
 import sio from "./Assets/sponsorsLogos/sio.jpg"
 import axure from "./Assets/sponsorsLogos/axure.svg"
+import yp from "./Assets/sponsorsLogos/yp.png"
+import hitam from "./Assets/sponsorsLogos/hitam.jpg"
 
 
 
@@ -343,7 +342,10 @@ const silversponsorLogos = [
 ];
 
 const bronzeponsorLogos = [
-  [{ src: ecell, link: "https://ecellmjcet.in/" }], //Array 1
+  [{ src: ecell, link: "https://ecellmjcet.in/" },
+  { src: yp, link: "https://yp.ieee.org/" },
+  { src: hitam, link: "https://www.linkedin.com/in/hitam-hackathon-club-77513b263" },
+], //Array 1
   // [{ src: koii, link: "https://www.koii.network/" }, { src: postman, link: "https://postman.com/" }, {src: prayosys, link: "https://prayosys.com/"}],
   // [{src: shivalika, link: "#"}, {src: cuvette, link: "https://www.cuvette.tech/"}],
   // [{ src: taskade }, { src: Replit }, { src: qoom }], //Array 2
