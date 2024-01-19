@@ -142,7 +142,7 @@ export default function HomePage(props) {
             <Col className="info-div" sm={12} lg={7} md={8}>
               <Myinfo />
             </Col>
-            <Col className="d-image" sm={12} lg={5} md={4}>
+            <Col className="d-image" sm={12} lg={5} md={4} style={{ paddingTop: "40px" }}>
               <img alt="img" src={TOP_SECTION.IMG_SRC} />
               <br />
             </Col>
